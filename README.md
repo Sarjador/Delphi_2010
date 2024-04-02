@@ -1347,7 +1347,7 @@ Esta guía ofrece una base sobre cómo construir una aplicación CRUD básica en
    - `TDBGridEh`: Para mostrar los registros de la base de datos.
    - `TDataSource`: Para conectar los componentes visuales con los conjuntos de datos.
    - `TOraSession`: Para la conexión a la base de datos.
-      ***Configurarción***:
+      ***Configuración***:
       - `Username` AT_TIER1
       - `Password` fuego
       - `Server` NCLIENTES
